@@ -1,0 +1,54 @@
+#img.wp-smiley,
+#img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+#image_1876359667 {
+  width: 100%;
+}
+#image_1562911356 {
+  width: 100%;
+}
+#image_2073898095 {
+  width: 100%;
+}
+#image_374087360 {
+  width: 100%;
+}
+#image_1294889085 {
+  width: 100%;
+}
+#section_308078607 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+#section_1879086745 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: rgb(247, 247, 247);
+}
+#section_1363205001 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+#section_755686034 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+#section_1040892501 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+#section_1040892501 .section-bg-overlay {
+  background-color: rgba(33, 118, 25, 0.88);
+}
+#section_1040892501 .section-bg.bg-loaded {
+  background-image: url(https://bds8.ghouse.com.vn/wp-content/uploads/2019/04/du-an-3.jpg);
+}
